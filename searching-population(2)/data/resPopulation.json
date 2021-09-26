@@ -1,0 +1,18 @@
+[
+    {
+        "indicator": {
+            "id": "SP.POP.TOTL",
+            "value": "Population, total"
+        },
+        "country": {
+            "id": "CN",
+            "value": "China"
+        },
+        "countryiso3code": "CHN",
+        "date": "2006",
+        "value": 1311020000,
+        "unit": "",
+        "obs_status": "",
+        "decimal": 0
+    }
+]
